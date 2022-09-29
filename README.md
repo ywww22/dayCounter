@@ -1,9 +1,9 @@
 # dayCounter
 
 <div>
-<img src="https://user-images.githubusercontent.com/66731780/193061955-ddf9809f-4da2-4711-9021-3e87555283df.png" width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/66731780/193061964-b32ec4db-0dc4-4801-aace-26daa412bf69.png" width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/66731780/193061967-fda0b359-1b59-4d0f-8d10-bc88925fa1bf.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66731780/193061955-ddf9809f-4da2-4711-9021-3e87555283df.png" width="220" height="440"/>
+<img src="https://user-images.githubusercontent.com/66731780/193061964-b32ec4db-0dc4-4801-aace-26daa412bf69.png" width="220" height="440"/>
+<img src="https://user-images.githubusercontent.com/66731780/193061967-fda0b359-1b59-4d0f-8d10-bc88925fa1bf.png" width="220" height="440"/>
 </div>
 <br/>
 
